@@ -1,0 +1,35 @@
+GAME MANIA
+-------------------------------------------------------------------------------------------------
+
+>>>>>> Menu de opções <<<<<<<
+
+Deve conter uma função para dar saudações ao usuário
+O usuário deve ter a opção de selecionar o que deseja jogar 
+O programa deve conter uma função para sair, em qualquer momento da execução do programa.
+
+
+>>>>>> Jogo da forca <<<<<<<<
+
+O programa deverá escolher e armazenar uma palavra aleatória
+Deve imprimir na tela uma mensagem exibindo a categoria da palavra
+O usuário deve inserir uma letra
+Caso acerte, o molde do jogo será atualizado
+Caso erre, o programa deverá exibir quantas chances restam para o usuário
+
+
+>>>>>> Trivia <<<<<<<
+
+O programa deverá exibir categorias que usuário deseja jogar (conhecimentos gerais, ciência, geografia, história, atualidades, cultura pop)
+Deve aparecer a pergunta e suas opções o usuário deve digitar sua resposta
+Após a resposta, deve aparecer uma mensagem como se o programa estivesse pensando, após isso, a mensagem de resposta correta ou incorreta.
+
+
+>>>>>> Jogo da Velha <<<<<<
+
+O usuário seleciona se quer jogar com a máquina ou com outro usuário
+Função para escolher X ou O
+
+>>>>>> Adivinhe  <<<<<<<<<
+
+
+
